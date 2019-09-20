@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'personal_portfolio',
         'USER': 'pp_user',
         'HOST': 'localhost',
-        'PORT': '',
+        'PORT': '5432',
     }
 }
 
